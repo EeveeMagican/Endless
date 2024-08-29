@@ -372,7 +372,7 @@ nav {
     border-radius: 20px;
     overflow: hidden;
     position: relative;
-    height: 100vh;
+    height: 150vh;
   }
   .RP__wrapper:before {
     content: "";
